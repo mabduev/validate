@@ -11,11 +11,13 @@
       'max' => 30
       ),
     ));
+?>
 
 ## Installation
 
 <?php
   require 'classes/validate.php';
+?>
 
 ## License
 
