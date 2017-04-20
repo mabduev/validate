@@ -1,5 +1,5 @@
 ## Code Example
-
+```php
 <?php
   $validate = new Validate();
 			
@@ -12,13 +12,13 @@
       ),
     ));
 ?>
-
+```
 ## Installation
-
+```php
 <?php
   require 'classes/validate.php';
 ?>
-
+```
 ## License
 
 Open-sourced software licensed under the MIT license.
